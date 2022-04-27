@@ -1,4 +1,6 @@
-# Semantic analysis merge tool
+# Semantic analysis merge tool  
+
+The semantic analysis merge(SAM) tool can be used to identify behaviour changes, that are caused by semantic conflicts after changes in the same region of the code. 
 
 to install the semantic analysis merge tool in your local repository, simply run  
 `./setup.sh ${path_to_your_repository}`
