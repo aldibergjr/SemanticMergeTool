@@ -2,8 +2,18 @@
 
 The semantic analysis merge(SAM) tool can be used to identify behaviour changes, that are caused by semantic conflicts after changes in the same region of the code. 
 
+### Requirements
+
+- Java 8
+- Maven
+- Python3
+- Setup `JAVA_HOME` and `MAVEN_HOME` environment variables
+
+### Installation
+
 to install the semantic analysis merge tool in your local repository, simply run  
 `./setup.sh ${path_to_your_repository}`
+
 
 # Workflow
 
